@@ -9,7 +9,7 @@
 
 @font-face {
 	font-family: 'ChicagoFLF';
-	src: url('/fonts/ChicagoFLF.ttf') format('truetype');
+	src: url('./fonts/ChicagoFLF.ttf') format('truetype');
 }
 
 html,
